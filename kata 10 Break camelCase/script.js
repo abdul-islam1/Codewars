@@ -25,7 +25,7 @@ function solution(string) {
   return retString.substring(0, retString.length - 1);
 }
 
-console.log(solution("identifier")); //
+console.log(solution("identifier")); // identifier
 console.log(""); //""
 console.log(solution("camelCasing")); //camel Casing
 console.log(solution("camelCasingTest")); //camel Casing Test
