@@ -10,3 +10,4 @@ function digitize(n) {
 
 console.log(digitize(35231));
 console.log(digitize(0));
+console.log(digitize(123456));
